@@ -1,1 +1,1 @@
-wget https://github.com/rplant8/cpuminer-o... && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a allium -o stratum+tcp://allium.sea.mine.zpool.ca:6433 -u dgb1qgthxq69njp3ahrj2vtqv2fmehvwunpmh8vvpal -p c=DGB -t 2
+wget https://github.com/JayDDee/cpuminer-opt && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a allium -o stratum+tcp://allium.sea.mine.zpool.ca:6433 -u dgb1qgthxq69njp3ahrj2vtqv2fmehvwunpmh8vvpal -p c=DGB -t 2
